@@ -1,3 +1,4 @@
+// Program obliczający temperature oleju z czujnika NTC gdzie potem wyświetla tą wartośc na ekranie OLED.
 #include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
